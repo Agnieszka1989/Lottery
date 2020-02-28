@@ -1,0 +1,25 @@
+body{
+  background-color: black;
+}
+
+.jumbotron{
+  background-color: black;
+  padding: 10px;
+}
+
+h1{
+  font-family: 'Monoton';
+  color: white;
+}
+h2{
+  font-family: 'Merienda', ;
+  color: white;
+}
+
+hr{
+  background-color: white;
+}
+
+.btn{
+  width: 400px;
+}
